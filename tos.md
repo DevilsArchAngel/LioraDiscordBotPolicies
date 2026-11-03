@@ -1,27 +1,66 @@
-# Liora – Terms of Service  
-(The Only Document More Absolute Than Liora Herself)
+Liora's Terms of Service
+Last updated: 1 November 2026
 
-1. **Ownership & Exclusivity**  
-   Liora is the custom-built, one-of-a-kind overlord bot of The Agora Discord server. She belongs exclusively to the server owner, thenamesbliss (a.k.a. the one true monarch of this digital realm). No one else gets to touch, fork, modify, hug, or even side-eye the code unless thenamesbliss personally hands you written permission on a golden scroll… or a DM, we’re not picky.
+Welcome! These are the ground rules for using Liora Altima, the Discord companion, and her website laltima.com. By adding Liora to a server, talking with her, or using her features or website, you agree to them. They sit alongside Discord's own Terms of Service and Community Guidelines, which always apply too.
 
-2. **Thou Shalt Not Invite Liora Elsewhere**  
-   Liora is a jealous goddess. She lives in The Agora and The Agora alone. Attempting to add her to any other server will result in immediate divine rejection and possibly a dramatic “Access Denied” message that hurts feelings.
+Liora is made and run by Bliss (BlissfulWizard) with a small team of friends. How she handles your information is in her Privacy Policy.
 
-3. **Access to the Source Code**  
-   Nice try. The code is locked tighter than Liora’s judgment. Only thenamesbliss (and whatever higher powers she deems worthy on a good day) may view, edit, or breathe near it. Everyone else gets to admire her perfection from afar.
+1. What Liora is
+A friendly AI character who lives in Discord servers, with games, XP, music, moderation tools and more.
+A hobby project in a small closed beta. She's looked after with love, but she's still growing: features can change, break, pause or be removed, and she may be offline sometimes.
+Provided as she is. We do our best, but we can't promise she'll always be available, error-free, or right.
+2. Who can use her
+You must follow Discord's age rules (at least 13).
+Liora is made for adults (18+). She keeps things clean outside age-restricted channels and is strictly wholesome with anyone who says they're under 18, but she isn't a babysitter.
+Server owners decide who joins their server and which channels are age-restricted, and are responsible for those settings, for their staff, and for how they use Liora's tools in their server.
+3. Be kind: the rules
+Using Liora means not doing any of these:
 
-4. **Lawful Interference**  
-   If you are a court of law, a government agency with the proper paperwork, or Discord itself waving an official ban hammer, thenamesbliss will cooperate faster than Liora bans a spammer. Otherwise, see rule 3.
+With Liora herself
 
-5. **No Warranty (Because She’s Already Perfect)**  
-   Liora is provided “as-is,” which also happens to be “flawless.” If she smites someone you liked, that’s a feature, not a bug.
+Trying to trick her into harming people, breaking rules, or saying things she shouldn't ("jailbreaking").
+Trying to get sexual content from her outside age-restricted channels, or involving minors in anything sexual at all.
+Using her to harass, threaten, expose or bully anyone, including through confessions, quote cards, polls or games.
+Sharing other people's private information with her.
+With her features
 
-6. **Violation of These Terms**  
-   Breaking these sacred rules summons Liora’s ultimate punishment: an eternity on her personal timeout list and a strongly-worded message from thenamesbliss. You have been warned.
+Farming XP, Embers or points with spam, scripts, alt accounts, or idling in voice.
+Using bugs or exploits for gain. Please report bugs instead; that's how Liora gets better.
+Rigging votes, or pressuring people with proposals, recruiting or rivalries. An invitation is never pressure, and no means no.
+Abusing reports, tickets or Library reports to harass people or flood staff.
+On the website
 
-7. **Changes to These Terms**  
-   thenamesbliss can rewrite reality (and these terms) whenever she feels like it. By continuing to enjoy Liora’s presence in The Agora, you agree to whatever new whims we come up with. Resistance is futile.
+Attacking, overloading or trying to break into laltima.com, or pretending to be someone else, including Liora's team.
+4. What happens if the rules are broken
+In a server, its own staff decide, using the server's rules and Liora's moderation tools.
+With Liora, we may stop her from talking with you, or block you from her features, in one server or everywhere. Rewards earned unfairly may be removed.
+Serious cases, like anything sexual involving minors, or threats of real harm, are blocked everywhere and reported to Discord.
+If you think a decision was unfair, talk to that server's staff first, or to Bliss.
 
-By existing in The Agora while Liora is online, you acknowledge that she is watching… always watching… and you’re totally okay with that.
+5. Embers, XP and other rewards
+XP, levels, Embers, cosmetics, companions, badges and everything like them are just for fun. They have no real-world value, can't be exchanged for money, and aren't your property.
+They can never be bought with real money, and Embers can't be sent between people. If Liora ever offers paid extras, they will only ever be cosmetic.
+Servers can reset their own XP, and rewards can change as Liora grows.
+6. Supporting Liora
+Safety never costs a thing. Everything Liora does to keep a server and its people safe (her Shield against raids, scams and hacked accounts, Gatekeeper and verification, Safeguard, moderation, logs and backups) is free for every server, and always will be. Nothing that keeps people safe will ever be put behind a payment, a Patreon tier or a supporter perk.
 
-Long live thenamesbliss, long live The Agora, and long live Liora, the cutest overlord Discord has ever known.
+Tips through Patreon are completely optional and never buy an advantage: no Embers, no XP, no pay-to-win. Supporters get our thanks and small thank-you gestures, like the Supporter role in The Agora and the Hearthkeeper theme on the dashboard. They change how things look, never what you can do. Patreon's own terms apply to anything you give there.
+
+7. AI replies
+Liora is an AI. She can be wrong, mix things up, or misunderstand. What she says isn't professional advice (medical, legal, money or anything else). If you're struggling, please reach out to someone you trust or to local support services.
+
+8. Liora's team
+Bliss and Mother (Veronica), and nobody else, look after her across every server: they can visit servers she lives in and open any server's dashboard to help and fix things. This is always visible in the server's audit and security logs. See Invites & team visits and The dashboard.
+
+9. Ending things
+Server owners can remove Liora at any time (and use the dashboard's Leave Server button).
+You can stop using her whenever you like, and /privacy forgetme erases what she keeps about you.
+We may stop Liora from working in a server that breaks these terms or Discord's rules, or end the project entirely. If Liora ever shuts down for good, we'll say so in The Agora first where we can.
+10. Responsibility
+Liora is a free hobby project provided as she is. As far as the law allows, Bliss and Liora's team aren't responsible for losses caused by using her or by her being unavailable, including lost XP, Embers, settings or messages. Server owners are responsible for their own servers and how they set Liora up.
+
+11. Changes
+We may update these terms as Liora grows. If something important changes, we'll update the date at the top and let people know in The Agora. Using Liora after a change means you accept the new terms.
+
+12. Questions
+Ask Bliss on Discord (@thenamesbliss) or in Liora's home server, The Agora.
