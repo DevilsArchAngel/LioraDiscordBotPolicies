@@ -1,6 +1,6 @@
 Liora's Privacy Policy
 Last updated: 1 November 2026
-
+ 
 Hi! This is how Liora Altima, the Discord companion, looks after your information. We've kept it in plain words. The short version: Liora keeps as little as she can, for as short as she can, never sells anything, and you can see or erase what she has about you at any time.
 
 Liora is made and run by Bliss (BlissfulWizard on Discord) with a small team of friends. She's a hobby project in a small closed beta, not a company.
