@@ -13,36 +13,81 @@ You never need to ask anyone for permission to use them.
 2. What Liora keeps, and for how long
 Liora only keeps what a feature needs to work. Here's the summary. Each feature's own section (linked) has the full detail.
 
-About you	How long	Details
-Recent chat in a channel, so she can follow the conversation (encrypted)	Up to 7 days, at most 75 lines per channel	Talking with Liora
-Her impression of you and a friendliness score, per server, from messages you send her (encrypted); who tends to talk with whom	Impression: unused after 30 days without talking to her, deleted after 90. Who talks with whom: until you ask her to forget you	Talking with Liora
-A note that you said you're under 18	1 year	Age & safety
-That you picked Under 18 in an adults-only server, and when	1 year	Age & safety
-Your XP and levels, per server	While you're in the server; deleted 72 hours after you leave	XP & levels
-Your Embers, per server, and a record of each one earned or spent	Embers: as XP. Record: 90 days	Embers & cosmetics
-Cosmetics you own	Until you ask to forget	Embers & cosmetics
-Marriage, Hearth, prenup, proposals turned down	Until the marriage ends; proposals 7 days	Marriage
-Your Domination Family and points	Until the Family or season ends	Domination
-Your companion and your current story vote	While you're in the server	Games & fun
-Strikes and warnings	Strikes fade after 6 months; entries deleted after 2 years	Moderation
-Recent messages, so staff can see edits and deletions	7 days	Moderation
-A locked copy of a message Safeguard stepped in on (a dox, a threat, an IP grabber), with who posted it and where (encrypted)	90 days; up to a year if the server's owner keeps it for a report	Safeguard
-If you're on Liora's safety watchlist: your user ID, why, and who listed you (encrypted)	Until Bliss or Mother remove it; reviewed after 180 days	Safeguard
-Your playlists and liked songs	Until you delete them, or 72 hours after you've left every server	Music
-Joining a server through the Library; reports you sent about a listing	30 days; 7 days	Library
-Your birthday (month and day, never the year)	Until you remove it, or 72 hours after you've left every server	Birthdays
-Days you were counted as active; your recent join	14 days; 30 days	Server analytics
-The date you were last active in a server	Until 72 hours after you leave that server	Server analytics
-That a voice room is yours, while it's open	Until the room closes	Voice rooms
-The voice you picked for text to speech	Until you change it back or ask to forget	Text to speech
-Giveaways you entered, won or started (and each giveaway's prize, place and end time)	30 days after the giveaway ends	Giveaways
-That a message on a server's starboard is yours (with its copy and star count)	A year after its last star, or until the copy comes down	Starboard
-Suggestions you sent, and which way you voted on them	180 days after anything last happened to each, or until it's deleted	Suggestions
-Reminders you asked for with /remind: what, when, where, and whether they repeat	Until they go off (or you cancel a repeating one), then a day for Snooze	Reminders
-Colours you asked her to add to a server's palette: the name, colour, server and when	30 days (for the one-a-day limit)	Role Menus
-If Bliss credits you for helping Liora grow: the name you're credited as and what you helped with (both shown at laltima.com/credits), and your user ID so only you can change or remove it	Until you take it off (!credits remove) or ask her to forget you. Leaving her servers doesn't remove it	The dashboard & laltima.com
-If you ask for an invite to LAOBTS, her beta testing server: that you asked, the invite and which of your servers it was for, and whether you used it. If you send a report there: what you wrote, and that you sent it	Until you ask her to forget you (the report cards and threads in LAOBTS are ordinary Discord messages)	The beta testing server
-Liora's working log: the technical notes she writes while running (start-up, errors, short notes of what she did, sometimes with a username or ID)	7 days, then deleted automatically	Only Bliss's computer
+About you	
+How long	
+Details
+Recent chat in a channel, so she can follow the conversation (encrypted)
+Up to 7 days, at most 75 lines per channel
+Talking with Liora
+Her impression of you and a friendliness score, per server, from messages you send her (encrypted); who tends to talk with whom	Impression: unused after 30 days without talking to her, deleted after 90. Who talks with whom: until you ask her to forget you   
+Talking with Liora
+A note that you said you're under 18
+1 year	Age & safety
+That you picked Under 18 in an adults-only server, and when
+1 year	Age & safety
+Your XP and levels, per server	While you're in the server; deleted 72 hours after you leave
+XP & levels
+Your Embers, per server, and a record of each one earned or spent
+Embers: as XP. Record: 90 days	Embers & cosmetics
+Cosmetics you own
+Until you ask to forget	Embers & cosmetics
+Marriage, Hearth, prenup, proposals turned down	Until the marriage ends; proposals 7 days
+Marriage
+Your Domination Family and points
+Until the Family or season ends	Domination
+Your companion and your current story vote
+While you're in the server
+Games & fun
+Strikes and warnings
+Strikes fade after 6 months; entries deleted after 2 years
+Moderation
+Recent messages, so staff can see edits and deletions
+7 days	Moderation
+A locked copy of a message Safeguard stepped in on (a dox, a threat, an IP grabber), with who posted it and where (encrypted)
+90 days; up to a year if the server's owner keeps it for a report
+Safeguard
+If you're on Liora's safety watchlist: your user ID, why, and who listed you (encrypted)
+Until Bliss or Mother remove it; reviewed after 180 days
+Safeguard
+Your playlists and liked songs	Until you delete them, or 72 hours after you've left every server
+Music
+Joining a server through the Library; reports you sent about a listing
+30 days; 7 days	Library
+Your birthday (month and day, never the year)
+Until you remove it, or 72 hours after you've left every server	Birthdays
+Days you were counted as active; your recent join
+14 days; 30 days
+Server analytics
+The date you were last active in a server
+Until 72 hours after you leave that server
+Server analytics
+That a voice room is yours, while it's open
+Until the room closes
+Voice rooms
+The voice you picked for text to speech	Until you change it back or ask to forget
+Text to speech
+Giveaways you entered, won or started (and each giveaway's prize, place and end time)
+30 days after the giveaway ends	Giveaways
+That a message on a server's starboard is yours (with its copy and star count)
+A year after its last star, or until the copy comes down
+Starboard
+Suggestions you sent, and which way you voted on them
+180 days after anything last happened to each, or until it's deleted
+Suggestions
+Reminders you asked for with /remind: what, when, where, and whether they repeat
+Until they go off (or you cancel a repeating one), then a day for Snooze
+Reminders
+Colours you asked her to add to a server's palette: the name, colour, server and when
+30 days (for the one-a-day limit)
+Role Menus
+If Bliss credits you for helping Liora grow: the name you're credited as and what you helped with (both shown at laltima.com/credits), and your user ID so only you can change or remove it
+Until you take it off (!credits remove) or ask her to forget you. Leaving her servers doesn't remove it	The dashboard & laltima.com
+If you ask for an invite to LAOBTS, her beta testing server: that you asked, the invite and which of your servers it was for, and whether you used it. If you send a report there: what you wrote, and that you sent it
+Until you ask her to forget you (the report cards and threads in LAOBTS are ordinary Discord messages)
+The beta testing server
+Liora's working log: the technical notes she writes while running (start-up, errors, short notes of what she did, sometimes with a username or ID)
+7 days, then deleted automatically
+Only Bliss's computer
 The 72-hour promise: when you leave a server, what Liora keeps about you there is deleted 72 hours later (come back sooner and it's all still there). Things that belong to you rather than a server, like playlists, cosmetics and birthdays, go once you've been gone from every server Liora is in for 72 hours.
 
 What she never keeps: confessions, quote cards, Mafia games, mini-games, invite logs, or your login. Those either aren't saved at all or are ordinary Discord messages in a server, which that server's staff control.
