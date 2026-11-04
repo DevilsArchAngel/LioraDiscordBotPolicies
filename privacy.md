@@ -28,6 +28,7 @@ full detail.
 | Recent chat in a channel, so she can follow the conversation (encrypted) | Up to 7 days, at most 75 lines per channel | [Talking with Liora](https://laltima.com/policies/01-talking-with-liora) |
 | Her impression of you and a friendliness score, per server, from messages you send her (encrypted); who tends to talk with whom | Impression: unused after 30 days without talking to her, deleted after 90. Who talks with whom: until you ask her to forget you | [Talking with Liora](https://laltima.com/policies/01-talking-with-liora) |
 | If you're a good friend of hers (a friendliness score of 7 out of 10 or more): one friendliness score she uses in every server, never the details of what you said (encrypted) | Until it drops below 7, or after 90 days without talking to her anywhere | [Talking with Liora](https://laltima.com/policies/01-talking-with-liora) |
+| If a server's owner or admins make you one of its Lore Keepers: your user ID | Until they take you off, or you ask her to forget you | [Talking with Liora](https://laltima.com/policies/01-talking-with-liora) |
 | A note that you said you're under 18 | 1 year | [Age & safety](https://laltima.com/policies/00-age-and-safety) |
 | That you picked Under 18 in an adults-only server, and when | 1 year | [Age & safety](https://laltima.com/policies/00-age-and-safety) |
 | Your XP and levels, per server | While you're in the server; deleted 72 hours after you leave | [XP & levels](https://laltima.com/policies/02-xp-and-levels) |
