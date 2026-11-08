@@ -1,6 +1,6 @@
 # Liora's Privacy Policy
 
-*Last updated: 4 November 2026*
+*Last updated: 8 November 2026*
 
 Hi! This is how Liora Altima, the Discord companion, looks after your information. We've kept it in plain words.
 The short version: **Liora keeps as little as she can, for as short as she can, never sells anything, and you can
@@ -101,10 +101,14 @@ ads, no trackers. Details: [The dashboard & laltima.com](https://laltima.com/pol
 
 ## 5. Keeping it safe
 
-- Liora's data is stored on the computer that runs her, looked after by Bliss. Liora's team and her users are all
-  over the world, and the outside services in section 3 (like Discord and Google) handle information in their
+- Liora's data is stored on the computer that runs her, looked after by Bliss: his own computer, or a rented server
+  in the **European Union** (with Hetzner, in Germany or Finland) that only he can reach. Liora's team and her users
+  are all over the world, and the outside services in section 3 (like Discord and Google) handle information in their
   own countries, mostly the United States. Wherever you are, the promises in this policy stay the same.
 - Her conversation memory and her impressions of people are **encrypted**, and so are her backups.
+- Her backups are made once a day, and only the last 5 are kept. Besides the computer that runs her, copies are kept
+  on Bliss's own computer and in his private Google Drive. They're locked with Liora's own key, which is never stored
+  with them, so nobody (Google included) can open them.
 - The secret keys that protect Liora (her Discord token, the website's keys) are never shared or published.
 - The website only works over secure HTTPS connections.
 
